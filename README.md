@@ -5,11 +5,6 @@
 <h1>osTicket - Ticket Lifecycle: Intake Through Resolution</h1>
 This tutorial outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket.<br />
 
-
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: How to create, work, and resolves tickets within osTicket](https://www.youtube.com)
-
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
@@ -30,25 +25,38 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/FRGaZeR.png" height="80%" width="80%" alt="Ticket Intake"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<b>- Intake: Tickets are submitted by Users and Agents can view the tickets that need to be resolved</b>
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/L8ZNa6o.png" height="80%" width="80%" alt="Assigning Tickets"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<b>- Assignment and Communication: Tickets are then assigned to the proper team to deal with the issue. SLAs and priority are also assigned by the agent or the manager </b>
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Y5NmfAq.png" height="80%" width="80%" alt="Res"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<b>- Working the Issue: Tickets are then worked on my the assigned team and updates are provided back to the user</b>
 </p>
 <br />
+
+
+<p>
+<img src="https://i.imgur.com/QZaJIHF.png" height="80%" width="80%" alt="Closing a Ticket"/>
+</p>
+<p>
+<img src="https://i.imgur.com/oLDPCjQ.png" height="80%" width="80%" alt="Closed Ticket"/>
+</p>
+<p>
+<b>- Resolution: A solution to the Ticket's issue has been implemented and documented. The ticket will then be closed by the agent </b>
+</p>
+<br />
+
